@@ -1,0 +1,6 @@
+@Play.Inventory.Service_HostAddress = https://localhost:5001
+
+GET {{Play.Inventory.Service_HostAddress}}/api/items/
+Accept: application/json
+
+###

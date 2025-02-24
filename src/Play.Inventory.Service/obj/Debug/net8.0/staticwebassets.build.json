@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uqGih3erZvNYzLgqlUtupjWS0qMgr7XU/Bdql63TCWs=",
+  "Source": "Play.Inventory.Service",
+  "BasePath": "_content/Play.Inventory.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
