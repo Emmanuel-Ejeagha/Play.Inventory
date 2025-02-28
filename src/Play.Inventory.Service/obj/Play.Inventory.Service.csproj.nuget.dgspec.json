@@ -20,9 +20,7 @@
           "net8.0"
         ],
         "sources": {
-          "/home/emma/.nuget/packages": {},
-          "/home/emma/.nuget/packages/": {},
-          "/home/emma/.nuget/packages/": {},
+          "/home/emma/Desktop/PROJECTS/packages/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,6 +48,14 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.13, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Play.Catalog.Contracts": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             },
             "Play.Common": {
               "target": "Package",
