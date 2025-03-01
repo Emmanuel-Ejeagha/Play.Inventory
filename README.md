@@ -42,11 +42,15 @@ The **Inventory Service** is a microservice responsible for managing product sto
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/Emmanuel-Ejeagha/Play.Inventory.git
-cd Play.Inventory
+Clone all the repos in one dir
+Press F5 Key to enter debug mode
+or
+navigate to the dotnet of each repo and run:
+dotnet run
+Goto Play.Infra and run
+docker-compose up -d
+to start Docker container
 ```
-
-````
 
 ### Run the Service Locally
 
@@ -87,4 +91,7 @@ docker-compose up -d
 ## License
 
 MIT License
-````
+
+```
+
+```
