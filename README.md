@@ -1,4 +1,4 @@
-## **Inventory Service - README.md**
+## **Play.Inventory MicroService**
 
 ````md
 # Inventory Service
@@ -13,8 +13,7 @@ The **Inventory Service** is a microservice responsible for managing product sto
 - ASP.NET Core Web API
 - MongoDB (Database)
 - Docker (Containerization)
-- Kubernetes (Orchestration) _(if applicable)_
-- RabbitMQ _(if used for messaging)_
+- RabbitMQ _(messaging)_
 - Swagger (API Documentation)
 
 ## Features
@@ -28,14 +27,14 @@ The **Inventory Service** is a microservice responsible for managing product sto
 ### Prerequisites
 
 - .NET 8.0 SDK
-- Docker (if running in containers)
-- MongoDB installed or running in a container
+- Docker (running in containers)
+- MongoDB installed and running in a container
 
 ### Clone the Repository
 
 ```sh
 git clone https://github.com/Emmanuel-Ejeagha/Play.Inventory.git
-cd inventory-service
+cd Play.Inventory
 ```
 ````
 
