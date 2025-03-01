@@ -1,7 +1,4 @@
-## **Play.Inventory MicroService**
-
-````md
-# Inventory Service
+# Inventory MicroService
 
 ## Overview
 
@@ -15,6 +12,18 @@ The **Inventory Service** is a microservice responsible for managing product sto
 - Docker (Containerization)
 - RabbitMQ _(messaging)_
 - Swagger (API Documentation)
+
+## MicroService and pkgs
+
+- Play.Catalog: https://github.com/Emmanuel-Ejeagha/Play.Catalog
+
+- Play.Inventory: https://github.com/Emmanuel-Ejeagha/Play.Inventory
+
+- Play.Common: https://github.com/Emmanuel-Ejeagha/Play.Common
+
+- packages:
+  Play.common nuget pkgs: https://github.com/Emmanuel-Ejeagha/packages
+- Play.Infra: https://github.com/Emmanuel-Ejeagha/Play.Infra
 
 ## Features
 
@@ -36,6 +45,7 @@ The **Inventory Service** is a microservice responsible for managing product sto
 git clone https://github.com/Emmanuel-Ejeagha/Play.Inventory.git
 cd Play.Inventory
 ```
+
 ````
 
 ### Run the Service Locally
@@ -77,3 +87,4 @@ docker-compose up -d
 ## License
 
 MIT License
+````
